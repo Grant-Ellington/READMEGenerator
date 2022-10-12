@@ -90,11 +90,12 @@ function writeToFile(data) {
 function init() {
     inquirer.prompt(questions)
     .then((data) => {
-        writeToFile(generateMarkdown.generateMarkdown(data));
         const license = data.license;
         console.log(generateMarkdown.renderLicenseBadge(license));
         console.log(generateMarkdown.renderLicenseLink(license));
-        //console.log(generateMarkdown.renderLicenseSection(license));
+        console.log(generateMarkdown.renderLicenseSection(license));
+        writeToFile(generateMarkdown.generateMarkdown(data));
+        
     })
 }
 
