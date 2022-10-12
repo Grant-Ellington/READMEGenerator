@@ -94,7 +94,7 @@ function init() {
         console.log(generateMarkdown.renderLicenseBadge(license));
         console.log(generateMarkdown.renderLicenseLink(license));
         console.log(generateMarkdown.renderLicenseSection(license));
-        writeToFile(generateMarkdown.generateMarkdown(data));
+        writeToFile(generateMarkdown.generateMarkdown(data, generateMarkdown.renderLicenseSection(license)));
         
     })
 }
