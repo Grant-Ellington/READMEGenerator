@@ -73,6 +73,10 @@
   Below is an example of the program running.
 
   ![example video](./img/Readmegeneratorxbit.mov)
+
+https://user-images.githubusercontent.com/109107643/195671766-d0dd04bf-a707-45ec-8e60-cf58ea51b45c.mov
+
+
   ## Questions
   
   [email](gellingtonem6@gmail.com)
