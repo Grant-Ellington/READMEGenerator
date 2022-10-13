@@ -91,19 +91,6 @@ function generateMarkdown(data,licSec) {
   ## Questions
   ${data.gitUser}
   [${data.email}](${data.email})`
-
-
-
-
-
-
-
-
-
-    
-
-;
-console.log(html)
 }
 
 module.exports = {generateMarkdown, renderLicenseBadge, renderLicenseLink, renderLicenseSection  }
