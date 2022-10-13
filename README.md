@@ -70,7 +70,9 @@
 
   ![writeToFile](./img/writeToFile.png)
 
-  
+  Below is an example of the program running.
+
+  ![example video](./img/Readmegeneratorxbit.mov)
   ## Questions
   
   [email](gellingtonem6@gmail.com)
