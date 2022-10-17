@@ -1,13 +1,13 @@
 ## Table of Contents
-  * [License](*License)
-  * [Title](*Title)
-  * [Description](*Description)
-  * [Installation](*Installation)
-  * [Usage](*Usage)
-  * [Contribution](*Contribution)
-  * [Test](*Test)
-  * [Technologies](*Technologies)
-  * [Questions](*Questions)
+  * [License](#License)
+  * [Title](#Title)
+  * [Description](#Description)
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [Contribution](#Contribution)
+  * [Test](#Test)
+  * [Technologies](#Technologies)
+  * [Questions](#Questions)
   
   ## License
   
@@ -73,11 +73,10 @@
   Below is an example of the program running.
 
   ![example video](./img/Readmegeneratorxbit.mov)
-
-https://user-images.githubusercontent.com/109107643/195671766-d0dd04bf-a707-45ec-8e60-cf58ea51b45c.mov
-
-
   ## Questions
   
   [email](gellingtonem6@gmail.com)
   [GitHub](https://github.com/Grant-Ellington)
+
+  adding change
+  
