@@ -71,7 +71,7 @@ function generateMarkdown(data,licSec) {
   
   ${data.usage}
   
-  ## Contribution Guidlines
+  ## Contribution 
   
   ${data.contGuide}
   
@@ -80,7 +80,7 @@ function generateMarkdown(data,licSec) {
   ${data.test}
   
   
-  ## Techonologies
+  ## Technologies
   Project is created with:
   * ${data.tech1}
   * ${data.tech2}

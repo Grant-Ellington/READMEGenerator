@@ -1,0 +1,23 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "* [License](#License)   * [Title](#Title)   * [Description](#Description)   * [Installation](#Installation)   * [Usage](#Usage)   * [Contribution](#Contribution)   * [Test](#Test)   * [Technologies](#Technologies)   * [Questions](#Questions)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grant-Ellington/READMEGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grant-Ellington/READMEGenerator/issues"
+  },
+  "homepage": "https://github.com/Grant-Ellington/READMEGenerator#readme",
+  "dependencies": {"inquirer": "^8.2.4"}
+
+}
+ 
