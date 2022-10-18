@@ -72,6 +72,10 @@
 
   Below is an example of the program running.
 
+
+https://user-images.githubusercontent.com/109107643/196529395-90607f64-4287-40f8-892f-3ed94d63b0bf.mov
+
+
   ![example video](./img/Readmegeneratorxbit.mov)
   ## Questions
   
